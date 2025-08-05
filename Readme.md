@@ -43,7 +43,7 @@ In this project, I implemented:
 | Tool / Library        | Purpose |
 |-----------------------|---------|
 | **Java (JDK 17)**      | Programming language |
-| **VS Code / IntelliJ** | IDE used for development |
+| **VS Code** | IDE used for development |
 | **Terminal / Command Prompt** | Running the compiled `.class` file |
 | **`ArrayList`**         | To store and manage student objects |
 | **`Scanner`**           | To take input from the console |
