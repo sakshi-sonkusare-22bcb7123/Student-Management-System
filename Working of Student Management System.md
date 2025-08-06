@@ -1,4 +1,4 @@
-**WORKING OF JAVA CONSOLE CALCULATOR**🐧 
+**WORKING OF JAVA CONSOLE CALCULATOR** 🦕
 
 **Java Console Calculator Code**
 
@@ -30,6 +30,7 @@
 
 
 <img width="975" height="308" alt="image" src="https://github.com/user-attachments/assets/0ffbb4b2-c43f-4c0c-8296-8825f9fe7ea1" />
+
 
 **4.	Division**
  
