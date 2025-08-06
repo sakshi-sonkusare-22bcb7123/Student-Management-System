@@ -1,7 +1,7 @@
 # 🏋️‍♀️ WORKING OF STUDENT MANAGEMENT SYSTEM  
  
 
-## 🦑 Student Management System Code 
+## 🐲 Student Management System Code 
 
 
 <img width="975" height="578" alt="image" src="https://github.com/user-attachments/assets/4689b7f1-aefc-4659-a77d-2ab8f6e9cf13" />
